@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.myapp</groupId>
 	<artifactId>springboot_cicd_2</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version> 
 	<name>springboot_cicd_2</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
